@@ -48,31 +48,91 @@
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Developer Activity
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Featured Technologies
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,mysql,firebase,tailwind,bootstrap,vscode,figma,github&theme=dark"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🎮 Coding Status
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://img.shields.io/badge/STATUS-CODING_SUCCESSFULLY-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEV-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-CYBERPUNK-6e00ff?style=for-the-badge"/>
 </p>
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💻 Terminal
+
+<p align="center">
+
+```bash
+> Initializing system...
+
+[████████████████████] 100%
+
+✔ Laravel Loaded
+✔ React Loaded
+✔ Database Connected
+✔ Anime Mode Activated 🎌
+✔ Cyberpunk Theme Enabled ⚡
+
+Welcome back, Kevin...
+```
+
+</p>
+
+---
+
+# 🌌 Cyberpunk Vibes
+
+<p align="center">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="700"/>
+</p>
+
+---
+
+# 🎵 Spotify Playing
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117"/>
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+</p>
 # 👀 Profile Views
 
 <p align="center">
