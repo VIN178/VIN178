@@ -48,31 +48,6 @@
 
 ---
 
-# ⚡ Developer Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-# 🚀 Featured Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,mysql,firebase,tailwind,bootstrap,vscode,figma,github&theme=dark"/>
-</p>
-
----
-
-# 🎮 Coding Status
-
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-CODING_SUCCESSFULLY-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEV-ff00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-CYBERPUNK-6e00ff?style=for-the-badge"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -112,34 +87,6 @@ Welcome back, Kevin...
 
 ---
 
-# 🎵 Spotify Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117"/>
-</p>
-
----
-
-# 💭 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-</p>
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
 
 # 💡 Quote
 
